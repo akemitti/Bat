@@ -17,4 +17,9 @@ Mecânica de coleta e progressão: A cada fruta e legume que Bat capturar ele ga
 Mecânica de exploração: chegar no final do labirinto.
 Mecânica de progressão: a cada nivel a velocidade de Burgo o hamburgo ira aumentar, sendo mais dificil escapar dele.
 
-Tela:
+Personagens
+
+Bat o abacate: Protagonista do jogo que embarca em uma aventura para entender o porque é importante comer alimentos saudáveis.
+Burgo o Hamburgo: Antagonisda do jogo que tem como objetivo impedir o Bat de se alimentar de forma saudável e faze-lo comer alimentos de baixa qualidade.
+Comidas boas: Frutas, verduras e legumes com rostos.
+Comidas ruins: Comidas de baixo valor nutritivo, altas em açucar, gordurosas.
